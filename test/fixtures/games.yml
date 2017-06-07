@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  developer: MyString
+  year: 1
+  price: 1.5
+  current_date: 2017-06-06
+
+two:
+  name: MyString
+  developer: MyString
+  year: 1
+  price: 1.5
+  current_date: 2017-06-06
